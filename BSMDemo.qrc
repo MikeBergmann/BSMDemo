@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/Bones">
+        <file>Resource/Bones.png</file>
+        <file>Resource/media-pause-16.png</file>
+        <file>Resource/media-play-16.png</file>
+        <file>Resource/media-stop-16.png</file>
+    </qresource>
+</RCC>
