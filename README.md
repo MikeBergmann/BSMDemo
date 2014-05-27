@@ -1,7 +1,7 @@
 BSMDemo
 =======
 
- Demo Application for the  Bones Speech Module Evaluation Board
+ Demo Application for the Bones Speech Module Evaluation Board
 
 To build you need:
 
