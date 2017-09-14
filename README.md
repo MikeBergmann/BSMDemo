@@ -5,11 +5,13 @@ BSMDemo
 
 To build you need:
 
-qextserialport Version 1.2 (https://github.com/qextserialport/qextserialport)
-Qt Version 4.7 
+- qextserialport Version 1.2 (https://github.com/qextserialport/qextserialport)
+
+- Qt Version 4.7 
 
 See:
- http://blog.mdb977.de/platform-independent-serial-port-programming-with-qt/
+
+http://blog.mdb977.de/platform-independent-serial-port-programming-with-qt/
  
 The original board is EOL and the developers Website is offline.
  
