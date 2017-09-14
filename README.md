@@ -17,4 +17,5 @@ The original board is EOL and the developers Website is offline.
  
 Web-Archive linke here:
 
-http://web.archive.org/web/20150810191331/http://bones-embedded.ch/product.php
+- German:  http://web.archive.org/web/20150810191331/http://bones-embedded.ch/product.php
+- English: http://web.archive.org/web/20150101080608/http://www.bones-embedded.ch:80/product.php?Language=English
