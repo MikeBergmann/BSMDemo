@@ -13,7 +13,7 @@ To build you need:
 
 See:
 
-http://blog.mdb977.de/platform-independent-serial-port-programming-with-qt/
+https://blog.mdb977.de/platform-independent-serial-port-programming-with-qt/
  
 The original board is EOL and the developers Website is offline.
  
