@@ -3,6 +3,8 @@ BSMDemo
 
 Demo Application for the Bones Speech and Sound Module
 
+![Screenshot](http://blog.mdb977.de/wp-content/uploads/2013/03/BSM.png)
+
 The Bones Speech and Sound Module is an Text to Speech hardware module communicating via a HDLC like protocol over FTDI USB serial port.
 
 To build you need:
